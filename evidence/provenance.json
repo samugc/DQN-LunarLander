@@ -1,0 +1,10 @@
+{
+  "source": "Master/Asignaturas/RedesNeuronales/P2/Intento_Dueller_PER.ipynb",
+  "sha256": "f37ed17b3b332ea957a6aa773cb72456067b9cf32c1ff765a27c45e018a62653",
+  "baseline_source": "Intento_10.ipynb",
+  "baseline_sha256": "73bee0fb3a288acb1759e612f2641ded23e9a402295bc60003ac3e8a21cd9233",
+  "historical_mean_return": 268.32,
+  "evaluation": "30 greedy episodes from one trained policy, seeds 124..153",
+  "checkpoint_link": "No archived file confidently associated with this Dueling/PER result; not bundled",
+  "changes": "Huber per-sample dimensions fixed; target explicitly detached; no rerun of historical training"
+}

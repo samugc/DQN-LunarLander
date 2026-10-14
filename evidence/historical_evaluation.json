@@ -1,0 +1,12 @@
+[
+  {
+    "cell_index": 16,
+    "policy": "final in-memory agent",
+    "text": "Episode   1: score   283.0\nEpisode   2: score   274.4\nEpisode   3: score   284.6\nEpisode   4: score   274.7\nEpisode   5: score   262.8\nEpisode   6: score   270.8\nEpisode   7: score   261.8\nEpisode   8: score   267.5\nEpisode   9: score   291.4\nEpisode  10: score   274.5\nEpisode  11: score   295.8\nEpisode  12: score   278.5\nEpisode  13: score   254.4\nEpisode  14: score   269.0\nEpisode  15: score   276.1\nEpisode  16: score   293.9\nEpisode  17: score   278.7\nEpisode  18: score   270.0\nEpisode  19: score   270.5\nEpisode  20: score   265.7\nEpisode  21: score   282.8\nEpisode  22: score   262.7\nEpisode  23: score   269.3\nEpisode  24: score   289.3\nEpisode  25: score   267.7\nEpisode  26: score   278.4\nEpisode  27: score   258.4\nEpisode  28: score   235.8\nEpisode  29: score   132.0\nEpisode  30: score   275.1\nTime for testing: 1 min 33 seconds\nScore (average): 268.32\nScore (max): 295.78\n"
+  },
+  {
+    "cell_index": 17,
+    "policy": "loaded best_avg10.keras",
+    "text": "Episode   1: score   294.2\nEpisode   2: score   274.0\nEpisode   3: score   254.7\nEpisode   4: score   268.1\nEpisode   5: score   264.5\nEpisode   6: score   243.6\nEpisode   7: score   253.2\nEpisode   8: score   270.0\nEpisode   9: score   281.3\nEpisode  10: score   267.2\nEpisode  11: score   282.0\nEpisode  12: score   157.2\nEpisode  13: score   253.6\nEpisode  14: score   258.6\nEpisode  15: score   271.4\nEpisode  16: score   293.2\nEpisode  17: score   278.9\nEpisode  18: score   234.6\nEpisode  19: score   134.5\nEpisode  20: score   250.1\nEpisode  21: score   157.7\nEpisode  22: score   260.0\nEpisode  23: score   243.3\nEpisode  24: score   301.0\nEpisode  25: score   286.2\nEpisode  26: score   278.3\nEpisode  27: score   264.0\nEpisode  28: score   235.2\n"
+  }
+]
